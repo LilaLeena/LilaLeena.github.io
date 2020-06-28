@@ -8,3 +8,8 @@ Kvothe is absoluetely great! He wears 10 rings, on each finger one. When he play
 * Has mastered the art of sympathy 
 * Has red hair
 * Has earned his pipes in the Eolian
+
+Kvothe said:
+
+> Ambrose is an asshole.
+> He is not worth to be worried about.
